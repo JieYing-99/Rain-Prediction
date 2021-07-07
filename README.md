@@ -39,17 +39,15 @@ https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
     </li>
     <li>
       <b>Data Pre-processing</b> 
-      <ul><li>Handling missing values<li>
-      <li>Removing outliers<li>
-      <li>Categorical data encoding<li>
+      <ul><li>Handling missing values</li>
+      <li>Removing outliers</li>
+      <li>Categorical data encoding</li>
       <li>Feature scaling</li></ul>
     </li>
     <li>
       <b>Training Baseline Models</b> 
       <ul><li>Created a function to evaluate performance of multiple models using multiple metrics through Cross Validation</li></ul>
-      <br>
       <p><img src="model_performance.PNG" alt="performance evaluation"></p>
-      <br>
     </li>
     <li>
       <b>Feature Selection</b> 
@@ -69,8 +67,8 @@ https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
     </li>
     <li>
       <b>Model Evaluation</b> 
-      <ul><li>Evaluated the performance of the 3 inital shortlisted models and the 3 ensemble models<li>
-      <li>Plotted learning curves to compare the performance of the models on training and testing data<li>
+      <ul><li>Evaluated the performance of the 3 inital shortlisted models and the 3 ensemble models</li>
+      <li>Plotted learning curves to compare the performance of the models on training and testing data</li>
       <li>Determined the best model</li></ul>
     </li>
   </ol>
