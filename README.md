@@ -47,7 +47,7 @@ https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
     <li>
       <b>Training Baseline Models</b> 
       - Created a function to evaluate performance of multiple models using multiple metrics through Cross Validation
-      <img src="screenshots/sentiment_proportion_pie_chart.PNG" alt="performance evaluation">
+      <img src="model_performance.PNG" alt="performance evaluation">
     </li>
     <li>
       <b>Feature Selection</b> 
