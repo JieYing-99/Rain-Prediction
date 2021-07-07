@@ -26,6 +26,7 @@ https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
     <li>
       <b>Data Understanding</b>  
       - Descriptions of variables
+      <br>
     </li>
     <li>
       <b>Exploratory Data Analysis</b> 
@@ -36,6 +37,7 @@ https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
       - Checking the distribution of target variable (class distribution)
       - Correlation analysis
       - Checking for duplicates
+      <br>
     </li>
     <li>
       <b>Data Pre-processing</b> 
@@ -43,33 +45,41 @@ https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
       - Removing outliers
       - Categorical data encoding
       - Feature scaling
+      <br>
     </li>
     <li>
       <b>Training Baseline Models</b> 
       - Created a function to evaluate performance of multiple models using multiple metrics through Cross Validation
+      <br>
       <img src="model_performance.PNG" alt="performance evaluation">
+      <br>
     </li>
     <li>
       <b>Feature Selection</b> 
       - Principal Component Analysis (PCA)
+      <br>
     </li>
     <li>
       <b>Shortlisting the Best Models</b> 
-      - Selected 3 best models
+      - Selected the top 3 models
+      <br>
     </li>
     <li>
       <b>Hyperparameter Tuning</b> 
       - Determined the best parameters of the models using Randomized Search Cross Validation
+      <br>
     </li>
     <li>
       <b>Building Ensemble Models</b> 
       - Built 3 ensemble models using Stacking Classifier
+      <br>
     </li>
     <li>
       <b>Model Evaluation</b> 
       - Evaluated the performance of the 3 inital shortlisted models and the 3 ensemble models
       - Plotted learning curves to compare the performance of the models on training and testing data
       - Determined the best model
+      <br>
     </li>
   </ol>
 </div>
