@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">Rain Prediction</h3>
+  <h2 align="center">Rain Prediction</h2>
 </p>
 
 <h3 id="about-the-project">About The Project</h3>
