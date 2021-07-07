@@ -1,9 +1,5 @@
 <p align="center">
   <h3 align="center">Rain Prediction</h3>
-
-  <p align="center">
-    This project involves exploratory data analysis, data pre-processing, training multiple baseline machine learning models, hyperparameter tuning and building ensemble models to predict next-day rain in Australia.
-  </p>
 </p>
 
 <h3 id="about-the-project">About The Project</h3>
@@ -11,6 +7,8 @@
 <b>Data source:</b>
 <br>
 https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
+<br>
+The dataset contains 10 years of daily weather observations from many locations across Australia.
 
 <b>This project was built with:</b>
 <br>
@@ -74,3 +72,10 @@ https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
   </ol>
 </div>
 
+<h3 id="collaborators">Collaborators</h3>
+
+<ul>
+  <li>Andy Chow Sai Kit</li>
+  <li>Wong Yew Lee</li>
+  <li>Li Chen Zhen</li>
+</ul>
