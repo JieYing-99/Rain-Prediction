@@ -40,16 +40,13 @@ The dataset contains 10 years of daily weather observations from many locations 
       <ul><li>Handling missing values</li>
       <li>Removing outliers</li>
       <li>Categorical data encoding</li>
-      <li>Feature scaling</li></ul>
+      <li>Feature scaling</li>
+      <li>Feature selection</li></ul>
     </li>
     <li>
       <b>Training Baseline Models</b> 
       <ul><li>Created a function to evaluate performance of multiple models using multiple metrics through Cross Validation</li></ul>
       <p><img src="model_performance.PNG" alt="performance evaluation"></p>
-    </li>
-    <li>
-      <b>Feature Selection</b> 
-      <ul><li>Principal Component Analysis (PCA)</li></ul>
     </li>
     <li>
       <b>Shortlisting the Best Models</b> 
